@@ -1,3 +1,4 @@
+//present sequence by given first three numbers and the required number of sequences 
 import java.util.Scanner;
 class Sequence {
 public static void main (String[] args) {
