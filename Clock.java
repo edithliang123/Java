@@ -1,3 +1,4 @@
+//present the given military time as regular time
 class Clock {
 	private int hours, minutes;
 	private String clockform;
