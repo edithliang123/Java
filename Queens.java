@@ -1,3 +1,4 @@
+//Find solution for placing maximum number of Queens on n*n chessboard
 public class Queens {
 	public static int a = 0;
 	static void placeQueen(int[][] B, int i, int j) {
