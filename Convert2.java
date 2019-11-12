@@ -1,3 +1,4 @@
+//A converter of length, created by java GUI
 import java.awt.Color; 
 import java.awt.FlowLayout; 
 import java.awt.event.ActionEvent; 
