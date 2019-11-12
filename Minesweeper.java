@@ -1,3 +1,4 @@
+//Present a minesweeper board by given numbers and positions of bombs
 import java.util.Scanner;
 class Minesweeper {
 public static void main (String[] args) {
